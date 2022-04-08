@@ -108,8 +108,8 @@
                 <a href="https://github.com"><i class="fa-brands fa-github fa-brands-pro"></i></a>
                 <a href="https://linkedin.com"><i class="fa-brands fa-linkedin-in fa-brands-pro"></i></a>
             </div>
-            <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com"> DePc Suite</a></div>
-            <div class="col-12 col-sm-3"><a href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
+            <div class="col-12 col-sm-3 a-proyecto">Sponsor <a class="reds" href="https://depcsuite.com"> DePc Suite</a></div>
+            <div class="col-12 col-sm-3 a-proyecto"><a class="reds" href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
         </div>
     </footer>
     <div class="whatsapp">

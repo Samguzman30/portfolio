@@ -74,8 +74,8 @@
     <footer class="container mt-10">
         <div class="row">
             <div class="col-3">
-                <a href="https://github.com"><i class="fa-brands fa-github"></i></a>
-                <a href="https://linkedin.com"><i class="fa-brands fa-linkedin-in"></i></a>
+                <a href="https://github.com"><i class="fa-brands fa-brands-con fa-github"></i></a>
+                <a href="https://linkedin.com"><i class="fa-brands fa-brands-con fa-linkedin-in"></i></a>
             </div>
             <div class="col-3">Sponsor <a href="https://depcsuite.com"> DePc Suite</a></div>
             <div class="col-3"><a href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
