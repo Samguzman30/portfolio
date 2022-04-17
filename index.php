@@ -27,13 +27,13 @@
                             <a class="nav-link px-4 active" aria-current="page" href="index.html">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre-mi.html">Sobre Mi</a>
+                            <a class="nav-link" href="sobre-mi.php">Sobre Mi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4" href="contacto.html">Contacto</a>
+                            <a class="nav-link px-4" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-flex">
