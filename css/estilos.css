@@ -12,6 +12,11 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 } 
+#sobre-mi{
+    background-image: url(../images/fondo-proyectos.png);
+    background-repeat: no-repeat;
+    background-size: 100%;   
+}
 h1{
     color: #E20000;
     font-size: 36px;
@@ -91,9 +96,7 @@ border-radius: 30px;
 }
 .fa-brands-pro{
     color: red;
-
     }
-
 
 .fa-brands-con{
 color: white;
@@ -128,7 +131,10 @@ color: white;
 .proyecto img{
     height: 208px;
 }
-
+.intro{
+   
+    margin: 20px 0 0 0;
+}
 .p-intro{
     text-align: center;
     color: white;
