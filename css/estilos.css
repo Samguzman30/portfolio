@@ -30,7 +30,7 @@ p{
 }
 .cohete{
     height: 400px;
-    margin-left: 480px
+    margin-left: 540px
 }
 .cohete:hover{
     height: 410px;
@@ -132,16 +132,14 @@ color: white;
     height: 208px;
 }
 .intro{
-   
     margin: 20px 0 0 0;
 }
 .p-intro{
-    text-align: center;
     color: white;
     font-size: 20px; 
-    margin: 0px 0px 0px 0px;
     border: 1px solid white;
     border-radius: 20px;
+    font-weight: 600;
 }
 
 

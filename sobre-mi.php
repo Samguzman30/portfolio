@@ -23,10 +23,10 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link px-4 active" aria-current="page" href="index.php">Inicio</a>
+                            <a class="nav-link px-4" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre-mi.php">Sobre Mi</a>
+                            <a class="nav-link px-4 active" href="sobre-mi.php">Sobre Mi</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="proyectos.php">Proyectos</a>
@@ -39,8 +39,13 @@
                         <a class="btn btnrojo">Descargar mi CV <i class="fa-solid fa-file-arrow-down"></i></a>
                     </div>
     </header>
-</head>
-<body>
-    
+    <main class="container">
+    <div class="row">
+        <div class="col-12">
+    <h1>Sobre Mi</h1>
+        </div>
+
+    </div>
+    </main>
 </body>
 </html>

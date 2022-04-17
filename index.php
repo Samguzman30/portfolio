@@ -48,12 +48,18 @@
 
         </div>
         <div class="row">
-            <div class="col-12">
+            <div class="col-12 col-sm-6 my-4 mt-sm-5 text-center offset-sm-3 mb-3">
                 <div class="intro">
                     <p class="p-intro">Bienvenid@ a mi sitio web</p>
                 </div>
-               
             </div>
+        </div>
+        <div class="row">
+            <div class="col-12 text-center mb-4">
+                <a href="proyectos.php" class="btn btnblanco">Conoce mis proyectos</a>
+
+            </div>
+
         </div>
 
     </main>
