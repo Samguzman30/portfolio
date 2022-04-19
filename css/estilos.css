@@ -141,6 +141,36 @@ color: white;
     border-radius: 20px;
     font-weight: 600;
 }
+.perfil{
+    margin: 1em auto;
+    display: block;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
+    height: 300px;
+   
+}
+h2{
+    color: white;
+    font-size: 25px;
+}
+.stack{
+    background-color: #E20000;
+}
+.tecnologias{
+    background-color: #E20000;
+}
+.tecno{
+    background-color: white;
+    width: 200px;
+    border-radius: 5px;
+}
+.tecno-image{
+    height: 50px;
+}
+h3{
+        font-size: 15px;
+}
 
 
 
