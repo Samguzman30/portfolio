@@ -27,7 +27,7 @@
                             <a class="nav-link py-1 px-3" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link py-1 px-3" href="sobre-mi.php">Sobre Mi</a>
+                            <a class="nav-link py-1 px-3" href="sobre-mi.php">Sobre mi</a>
                         </li>
                         
                         <li class="nav-item">

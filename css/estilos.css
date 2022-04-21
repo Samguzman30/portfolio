@@ -159,6 +159,7 @@ h2{
 }
 .tecnologias{
     background-color: #E20000;
+    
 }
 .tecno{
     background-color: white;
@@ -170,6 +171,56 @@ h2{
 }
 h3{
         font-size: 15px;
+}
+#experiencias h2{
+    color: #370a6d;
+}
+#experiencias h3{
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+}
+#experiencias h4{
+    font-size: 17px;
+    color: #370a6d;
+}
+#experiencias h5{
+    color: #6A6A6A;
+    font-size: 14px;
+}
+.logo-depc{
+    height: 50px;
+    display: block;
+    filter: grayscale(100%);
+    margin-top: 40px;
+}
+.logo-depc :hover{
+    filter: grayscale(0%);
+}
+
+.logo-todocash{
+    height: 100px;
+    filter: grayscale(100%);
+}
+.logo-todocash :hover{
+    filter: grayscale(0%);
+}
+.logo-uba{
+    height: 140px;
+}
+
+
+.logo-enacom{
+    height: 150px;
+    filter: grayscale(100%);
+    margin
+}
+.small{
+    height: 130px;
+}
+.logo-globons{
+    height: 50x;
+    filter: grayscale(100%);
 }
 
 

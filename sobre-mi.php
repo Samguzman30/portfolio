@@ -26,7 +26,7 @@
                             <a class="nav-link px-4" aria-current="page" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link px-4 active" href="sobre-mi.php">Sobre Mi</a>
+                            <a class="nav-link px-4 active" href="sobre-mi.php">Sobre mi</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="proyectos.php">Proyectos</a>
@@ -43,7 +43,7 @@
         <div class="container">
     <div class="row">
         <div class="col-6 col-sm-5 mt-4">
-    <h1>Sobre Mi</h1>
+    <h1>Sobre mi</h1>
     <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos. Soy estudiante de cursos de programación Full Stack y de Base de datos.</p>
         <a href="contacto.php" class="btn btnrojo">Enviar mensaje</a>
         </div>
@@ -52,7 +52,7 @@
         </div>
     </div>
     </div>
-    <section class="tecnologias pb-5">
+    <section class="tecnologias color-gradiente pb-5">
     <div class="container stack">
         <div class="row">
             <div class="col-12 mt-5 mb-5">
@@ -113,6 +113,105 @@
         </div>
     </div>
     </section>
+    <section id="experiencias" class="container">
+        <div class= "row">
+            <div class="col-12 mt-5 mb-5">
+    <h2><i class="fa-solid fa-briefcase"></i> Experiencia laboral</h2>
+            </div>
+        </div>
+        <div class="row shadow bg-white rounded">
+        <div class="row">
+            <div class="col-2 ms-5 mt-5">
+                <img class="logo-depc img-fluid" src="images/logo-depcsuite.svg" alt="">
+                </div>
+                <div class="col-8 pt-3 mb-4">
+                    <h3>Director / Founder</h3>
+                    <h4>DEPCSUITE SA</h4>
+                    <h5>2016 - Presente</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    </div>
+                    <div class="row">
+            <div class="col-2 ms-5 mt-5">
+                <img class="logo-todocash img-fluid" src="images/todocash-vertical.svg" alt="">
+                </div>
+                <div class="col-8 pt-3 mb-4">
+                    <h3>Gerente de sistemas - Co-Founder</h3>
+                    <h4>TodoCash</h4>
+                    <h5>2021 - Presente</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    </div>
+                    <div class="row">
+            <div class="col-2 ms-5 mt-5">
+                <img class="logo-uba img-fluid" src="images/uba.jpg" alt="">
+                </div>
+                <div class="col-8 pt-3 mb-4">
+                    <h3>Desarrollador Senior Full Stack</h3>
+                    <h4>Universidad de Buenos Aires</h4>
+                    <h5>ago 2015 - ene 2020</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    </div>
+            <div class="row">
+            <div class="col-2 ms-5 mt-4">
+                <img class="logo-enacom img-fluid" src="images/enacom.jpg" alt="">
+                </div>
+                <div class="col-8 pt-3 mb-4">
+                    <h3>Desarrollador Senior Full Stack</h3>
+                    <h4>ENACOM</h4>
+                    <h5>jul 2012 - jun 2018</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    </div>
+                    <div class="row">
+            <div class="col-2 ms-5 mt-3">
+                <img class="logo-enacom img-fluid" src="images/freelancer.png" alt="">
+                </div>
+                <div class="col-8 pt-3 mb-4">
+                    <h3>Consultor Desarrollador Freelance</h3>
+                    <h4>Certificado Digital SA</h4>
+                    <h5>ago 2014 - dic 2016</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    </div>
+                    <div class="row">
+            <div class="col-2 ms-5 mt-4">
+                <img class="logo-enacom img-fluid  small" src="images/golshy.jpg" alt="">
+                </div>
+                <div class="col-8 pt-3 mb-4">
+                    <h3>Desarrollador Back-end y Front-end</h3>
+                    <h4>Agencia Golshy</h4>
+                    <h5>jul 2011 - dic 2016</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    </div>
+                    <div class="row">
+            <div class="col-2 ms-5 mt-5">
+                <img class="logo-globons img-fluid" src="images/globons.png" alt="">
+                </div>
+                <div class="col-8 pt-3 mb-4">
+                    <h3>Desarrollador Back-end y Front-end</h3>
+                    <h4>Globons SRL</h4>
+                    <h5>abr 2010 - ene 2011</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    </div>
+
+            
+
+        </div>
+        </div>
+
+
+
+    </section>
     </main>
+    <footer class="container mt-10">
+        <div class="row">
+            <div class="col-12 col-sm-3">
+                <a href="https://github.com"><i class="fa-brands fa-github fa-brands-pro"></i></a>
+                <a href="https://linkedin.com"><i class="fa-brands fa-linkedin-in fa-brands-pro"></i></a>
+            </div>
+            <div class="col-12 col-sm-3 a-proyecto">Sponsor <a class="reds" href="https://depcsuite.com"> DePc Suite</a></div>
+            <div class="col-12 col-sm-3 a-proyecto"><a class="reds" href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
+        </div>
+    </footer>
+    <div class="whatsapp">
+        <a href="https://api.whatsapp.com/send?phone=541140452943"><i class="fa-brands fa-whatsapp"></i></a>
+    </div>
 </body>
 </html>
