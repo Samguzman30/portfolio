@@ -222,6 +222,17 @@ h3{
     height: 50x;
     filter: grayscale(100%);
 }
+#academico h2{
+    color: #E20000;
+    
+}
+.academico-img{
+    
+}
+.academico-text{
+    position: absolute;
+    margin-left: 190px;
+}
 
 
 

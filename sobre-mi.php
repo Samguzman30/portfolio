@@ -190,10 +190,31 @@
                     <h5>abr 2010 - ene 2011</h5>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
                     </div>
-
-            
-
         </div>
+        </div>
+
+    </section>
+    <section id="academico" class="container">
+        <div class="row">
+            <div class="col-12 mt-5 mb-5">
+                <h2><i class="fa-solid fa-graduation-cap"></i>Formación académica</h2>
+            </div>
+        </div>
+        <div class="row shadow bg-white rounded">
+            <div class="row">
+                <div class="col-2 mt-4 ms-5">
+                    <img src="images/ean.jpg" class="academico-img" alt="">
+                </div>
+                <div class="col-4 academico-text mt-4 mb-4">
+                    <h3>Licenciado en tecnologías</h3>
+                    <h4>Escuela Argentina de negocios</h4>
+                    <h5>2015-2020</h5>
+                    <h6>http://www.ean.edu.ar/</h6>
+
+                </div>
+
+            </div>
+
         </div>
 
 
