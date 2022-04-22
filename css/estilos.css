@@ -175,7 +175,7 @@ h3{
 #experiencias h2{
     color: #370a6d;
 }
-#experiencias h3{
+#experiencias h3, #cursos h3{
     color: #6A6A6A;
     font-size: 18px;
     font-weight: 600;
@@ -184,9 +184,26 @@ h3{
     font-size: 17px;
     color: #370a6d;
 }
-#experiencias h5{
+#experiencias h5, #cursos p{
     color: #6A6A6A;
     font-size: 14px;
+}
+#academico h3{
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+}
+#academico h4, #cursos h4{
+    font-size: 17px;
+    color: #E20000;
+}
+#academico h5{
+    color: #6A6A6A;
+    font-size: 14px;
+}
+#academico h6{
+    color: #6a6a6a;
+    font-size: 16px;
 }
 .logo-depc{
     height: 50px;
@@ -222,16 +239,30 @@ h3{
     height: 50x;
     filter: grayscale(100%);
 }
-#academico h2{
+#academico h2, #cursos h2{
     color: #E20000;
     
 }
-.academico-img{
-    
+.academico-img, .cursos-img{
+    filter: grayscale(100%);
 }
-.academico-text{
-    position: absolute;
-    margin-left: 190px;
+.academico-img :hover{
+    filter: grayscale(0%);
+}
+.academico-parroquial{
+    height: 120px;
+    margin: 0px 0px 0px -20px;
+}
+.academico-text, .cursos-text{
+   margin: 0px 0px 0px -100px; 
+}
+.cursos-img{
+    height: 80px;
+}
+#idiomas{
+    background-color: #eee;
+}
+
 }
 
 

@@ -210,12 +210,106 @@
                     <h4>Escuela Argentina de negocios</h4>
                     <h5>2015-2020</h5>
                     <h6>http://www.ean.edu.ar/</h6>
+                </div>
+                <div class="col-2 mt-4 mb-4">
+                    <img src="images/unlam.png" class="academico-img" alt="">
+                </div>
+                <div class="col-4 academico-text mt-4 mb-4">
+                <h3>Ingeniería en Informática</h3>
+                    <h4>Universidad Nacional de La Matanza</h4>
+                    <h5>2006-2010</h5>
+                    <h6>http://unlam.edu.ar</h6>
+                </div>
+            </div>
+            <div class="row">
+            <div class="col-2 mt-4 ms-5">
+                    <img src="images/freelancer.png" class="academico-parroquial" alt="">
+                </div>
+                <div class="col-4 academico-text mt-4 mb-4">
+                    <h3>Técnico en Informática</h3>
+                    <h4>EColegio Parroquial San Juan XXIII</h4>
+                    <h5>2003-2005</h5>
+                    <h6>http://colparroquialjuan23.edu.ar</h6>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="cursos" class="container">
+    <div class="row">
+            <div class="col-12 mt-5 mb-5">
+                <h2><i class="fa-solid fa-graduation-cap"></i>Cursos de desarrollo profesional</h2>
+            </div>
+        </div>
+        <div class="row shadow bg-white rounded mb-5">
+            <div class="row">
+                <div class="col-2 mt-4 ms-5">
+                    <img src="images/utn.jpg" class="cursos-img" alt="">
+                </div>
+                <div class="col-4 cursos-text mt-4 mb-2">
+                    <h3>Programa Ejecutivo en Project Management</h3>
+                    <h4>Universidad Tecnológica Nacional</h4>
+                    <p>Expedición: may 2018</p>
+                    
+                </div>
+                <div class="col-2 mt-4 mb-2">
+                    <img src="images/ean.jpg" class="cursos-img" alt="">
+                </div>
+                <div class="col-4 cursos-text mt-4 mb-2">
+                <h3>Diplomatura en Marketing</h3>
+                    <h4>Escuela Argentina de Negocios</h4>
+                    <p>Expedición: dic 2017</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-2 mt-4 ms-5">
+                    <img src="images/fundacion-impulsar.png" class="cursos-img" alt="">
+                </div>
+                <div class="col-4 cursos-text mt-4 mb-4">
+                    <h3>Capacitación en Planes de Negocio</h3>
+                    <h4>Fundación Impulsar</h4>
+                    <p>Expedición: may 2018</p>
+                    
+                </div>
+                <div class="col-2 mt-4 mb-4">
+                    <img src="images/unlam.png" class="cursos-img" alt="">
+                </div>
+                <div class="col-4 cursos-text mt-4 mb-4">
+                <h3>Programación Web ASP.NET</h3>
+                    <h4>Universidad de La Matanza</h4>
+                    <p>Expedición: dic 2019</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-2 mt-4 ms-5">
+                    <img src="images/microsoft.jpg" class="cursos-img" alt="">
+                </div>
+                <div class="col-4 cursos-text mt-4 mb-4">
+                    <h3>Programación C# .NET</h3>
+                    <h4>Microsoft</h4>
+                    <p>Expedición: dic 2006</p>
+                    
+                </div>
+                <div class="col-2 mt-4 mb-4">
+                    <img src="images/freelancer.png" class="cursos-img" alt="">
+                </div>
+                <div class="col-4 cursos-text mt-4 mb-4">
+                <h3>English Intermediate B2</h3>
+                    <h4>Instituto John Milton de Cultura Inglesa</h4>
+                    <p>Expedición: dic 2006</p>
+                </div>
+            </div>
+            </div>
+    </section>
+    <section id="idiomas">
+        <div class="container">
+            <div class="row">
+                <div class="col-6 card">
+                <i class="fa-solid fa-message"></i>
 
                 </div>
 
             </div>
-
-        </div>
+            
 
 
 
