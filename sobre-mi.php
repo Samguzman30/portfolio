@@ -303,7 +303,7 @@
     <section id="idiomas">
         <div class="container">
             <div class="row">
-                <div class="col-6 card">
+                <div class="col-6">
                 <i class="fa-solid fa-message"></i>
 
                 </div>

@@ -246,7 +246,7 @@ h3{
 .academico-img, .cursos-img{
     filter: grayscale(100%);
 }
-.academico-img :hover{
+.academico-img:hover{
     filter: grayscale(0%);
 }
 .academico-parroquial{
@@ -263,7 +263,15 @@ h3{
     background-color: #eee;
 }
 
-}
+    .cursos-img:hover {
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter:grayscale(0%);
+    }
+   .fa-message{
+       font-size: 50px;
+   } 
+
+
 
 
 
