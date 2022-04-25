@@ -25,7 +25,7 @@ $pg = "sobre-mi";
     <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos. Soy estudiante de cursos de programación Full Stack y de Base de datos.</p>
         <a href="contacto.php" class="btn btnrojo">Enviar mensaje</a>
         </div>
-        <div class="col-6">
+        <div class="col-6 col-m-12">
             <img class="perfil" src="images/IMGSAMU.png" alt="sobre-mi">
         </div>
     </div>
@@ -33,58 +33,58 @@ $pg = "sobre-mi";
     <section class="tecnologias color-gradiente pb-5">
     <div class="container stack">
         <div class="row">
-            <div class="col-12 mt-5 mb-5">
+            <div class="col-12 my-sm-5 mt-5 mb-5">
                 <h2>Stack tecnológico</h2>
             </div>
         </div>
         <div class="row">
-            <div class=" tecno col-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
         <h3>Javascript</h3>
         <img src="images/javascript.jpeg" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
         <h3>PHP</h3>
         <img src="images/php.jpg" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
         <h3>HTML5</h3>
         <img src="images/html.png" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
         <h3>React.js</h3>
         <img src="images/react.png" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-2 pe-2 pt-5 pb-5 me-3">
         <h3>j.Query</h3>
         <img src="images/jquery.jpg" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-2 pe-2 pt-5 pb-5">
+            <div class=" tecno col-2 col-sm-2 text-center mt-2 pe-2 pt-5 pb-5">
         <h3>Boostrap</h3>
         <img src="images/boostrap.png" class="tecno-image" alt="">
             </div>
         </div>
         <div class="row">
-            <div class=" tecno col-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
         <h3>Laravel</h3>
         <img src="images/laravel.png" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
         <h3>MySQL</h3>
         <img src="images/mariadb.png" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
         <h3>CSS</h3>
         <img src="images/css.png" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
         <h3>Git</h3>
         <img src="images/git.png" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
+            <div class=" tecno col-2 col-sm-2 text-center mt-4 pe-2 pt-5 pb-5 me-3">
         <h3>Apache</h3>
         <img src="images/Apache.png" class="tecno-image" alt="">
             </div>
-            <div class=" tecno col-2 text-center mt-4 pe-2 pt-5 pb-5">
+            <div class=" tecno col-2 col-sm-2 text-center mt-4 pe-2 pt-5 pb-5">
         <h3>Mercadopago</h3>
         <img src="images/mercadopago.jpg" class="tecno-image" alt="">
             </div>
@@ -279,19 +279,39 @@ $pg = "sobre-mi";
             </div>
     </section>
     <section id="idiomas">
-        <div class="container">
-            <div class="row">
-                <div class="col-6">
-                <i class="fa-solid fa-message"></i>
-
+            <div class="container">
+                <div class="row py-5 mx-0">
+                    <div class="col-sm-6 col-12 pb-3 pb-sm-0">
+                        <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-comment-alt"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>IDIOMAS</h2>
+                                <ul>
+                                    <li>ESPAÑOL - Nativo</li>
+                                    <li>INGLÉS - Avanzado C1</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-12">
+                        <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBBIES</h2>
+                                <ul>
+                                    <li>Leer</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
             </div>
-            
-
-
-
-    </section>
+        </section>
+        </div>
     </main>
     <footer class="container mt-10">
         <div class="row">

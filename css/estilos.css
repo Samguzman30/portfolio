@@ -30,7 +30,7 @@ p{
 }
 .cohete{
     height: 400px;
-    margin-left: 540px
+    
 }
 .cohete:hover{
     height: 410px;
@@ -169,6 +169,7 @@ h2{
 .tecno-image{
     height: 50px;
 }
+
 h3{
         font-size: 15px;
 }
@@ -211,7 +212,7 @@ h3{
     filter: grayscale(100%);
     margin-top: 40px;
 }
-.logo-depc :hover{
+.logo-depc:hover{
     filter: grayscale(0%);
 }
 
@@ -219,7 +220,7 @@ h3{
     height: 100px;
     filter: grayscale(100%);
 }
-.logo-todocash :hover{
+.logo-todocash:hover{
     filter: grayscale(0%);
 }
 .logo-uba{
@@ -232,12 +233,18 @@ h3{
     filter: grayscale(100%);
     margin
 }
+.logo-enacom:hover{
+    filter: grayscale(0%);
+}
 .small{
     height: 130px;
 }
 .logo-globons{
     height: 50x;
     filter: grayscale(100%);
+}
+.logo-globons:hover{
+    filter: grayscale(0%);
 }
 #academico h2, #cursos h2{
     color: #E20000;
@@ -267,17 +274,52 @@ h3{
         -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
         filter:grayscale(0%);
     }
-   .fa-message{
-       font-size: 50px;
+   .fa-comment-alt, .fa-star{
+       font-size: 100px;
+       color: white;
+
    } 
+#idiomas .card{
+    background-color: #370A6D;
+    border-radius: 15px;
+    padding: 40px 0;
+}
+#idiomas h2{
+    font-size: 16px;
+    color: #282828;
+}
+#idiomas li{
+    list-style-type: none;
+    font-size: 14px;
+    color: #282828;
+}
 
 
 
 
 
 @media (max-width:750px){
-    #contacto{
+    #contacto, #inicio{
         background-image: url(../images/fondo-proyectos.png);
         background-repeat: no-repeat;
         background-size: 100%;
+    
+    }
+#contacto .p-intro{
+    color: #E20000;
+    border: 1px solid;
 }
+footer a{
+color: #E20000;
+
+}
+.fa-brands{
+    color: #E20000;
+}
+#contacto a{
+    text-align: center;
+
+}
+
+}
+

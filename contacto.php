@@ -51,12 +51,12 @@ $pg = "contacto";
     </main>
     <footer class="container mt-10">
         <div class="row">
-            <div class="col-3">
+            <div class="col-12 col-sm-3">
                 <a href="https://github.com"><i class="fa-brands fa-brands-con fa-github"></i></a>
                 <a href="https://linkedin.com"><i class="fa-brands fa-brands-con fa-linkedin-in"></i></a>
             </div>
-            <div class="col-3">Sponsor <a href="https://depcsuite.com"> DePc Suite</a></div>
-            <div class="col-3"><a href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
+            <div class="col-12 col-sm-3">Sponsor <a href="https://depcsuite.com"> DePc Suite</a></div>
+            <div class="col-12 col-sm-3"><a href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
 
         </div>
 

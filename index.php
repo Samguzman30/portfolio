@@ -20,7 +20,7 @@ $pg = "index";
     <?php include_once ("header.php") ?>;
     <main class="container">
         <div class="row">
-            <div class="col-12 div-cohete">
+            <div class="col-12 div-cohete text-center">
                <a href="proyectos.html"> <img class="cohete" src="images/cohete.svg" alt=""></a>
             </div>
 
@@ -43,12 +43,12 @@ $pg = "index";
     </main>
     <footer class="container mt-10">
         <div class="row">
-            <div class="col-3">
+            <div class="col-12 col-sm-3 text-center text-sm-start">
                 <a href="https://github.com"><i class="fa-brands fa-brands-con fa-github"></i></a>
                 <a href="https://linkedin.com"><i class="fa-brands fa-brands-con fa-linkedin-in"></i></a>
             </div>
-            <div class="col-3">Sponsor <a href="https://depcsuite.com"> DePc Suite</a></div>
-            <div class="col-3"><a href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
+            <div class="col-12 col-sm-3 text-center text-sm-start pt-2 p-sm-0">Sponsor <a href="https://depcsuite.com"> DePc Suite</a></div>
+            <div class="col-12 col-sm-3 text-sm-start  pt-2 p-sm-0"><a href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>
         </div>
     </footer>
     <div class="whatsapp">
