@@ -59,19 +59,48 @@ $pg = "proyectos";
             </div>
             <div class="col-12 col-sm-4 p-3">
                 <div class="proyecto">
-                    <img src="images/proyecto-integrador.png" alt="abmclientes" class="img-fluid">
-                    <h2 class="p-3 d-block"> PROYECTO INTEGRADOR </h2>
-                    <p class="p-3 pb-5 d-block">Proyecto Full Stack desarrollado en PHP, Laravel, Javascript, jQuery, AJAX, HTML, CSS, Mercadopago con panel administrador, gestor de usuarios, módulo de permisos y funcionalidades a fines.</p>
+                    <img src="images/invitados.jpg" alt="abmclientes" class="img-fluid">
+                    <h2 class="p-3 d-block"> Formulario de invitados </h2>
+                    <p class="p-3 pb-5 d-block">Listado realizado con PHP, HTML, CSS, en el cual solo se pueda ingresar con alguno de los numeros de documentos ya seleccionados y permita entrar a la sección VIP usando el codigo "verde".</p>
                         <div class="row my-5">
-                            <div class="col-6 ps-4">
-                                <a href="" target="_blank" class="btn btnrojo">Ver online</a>
+                            <div class="col-12 ps-4">
+                                <a href="https://github.com/Samguzman30/Formulario-de-invitados" target="_blank" class="btn btnrojo">Ver códigos</a>
                             </div>
-                            <div class="col-6 text-center">
-                                <a href="" target="_blank" class="btn btnfuente">Codigo fuente</a>
-                            </div>
+                            
                         </div>
                 </div>
             </div>
+        </div>
+        <div class="row">
+        <div class="col-12 col-sm-4 p-3">
+                <div class="proyecto">
+                    <img src="images/datospersonales.jpg" alt="abmclientes" class="img-fluid">
+                    <h2 class="p-3 d-block"> Formulario de datos personales </h2>
+                    <p class="p-3 pb-5 d-block">Listado realizado en HTML, CSS, PHP.</p>
+                        <div class="row my-5">
+                            <div class="col-12 ps-4">
+                                <a href="https://github.com/Samguzman30/Formulario-de-datos-personales" target="_blank" class="btn btnrojo">Ver códigos</a>
+                            </div>
+                            
+                        </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 p-3">
+                <div class="proyecto">
+                    <img src="images/360.jpeg" alt="abmclientes" class="img-fluid">
+                    <h2 class="p-3 d-block"> Modificaciones Front-End y Base de datos </h2>
+                    <p class="p-3 pb-5 d-block">Modificaciones realizadas con Wordpress en la sección contacto y 20 tips, corrección de formularios en sus tres idiomas y creación de base de datos de mails ingresados. </p>
+                        <div class="row my-5">
+                            <div class="col-12 ps-4">
+                                <a href="https://vision360diplomacy.ch/" target="_blank" class="btn btnrojo">Ver página</a>
+                            </div>
+                            
+                        </div>
+                </div>
+            </div>
+
+
+
         </div>
 
     </main>
