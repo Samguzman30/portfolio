@@ -44,8 +44,8 @@ $pg = "index";
     <footer class="container mt-10">
         <div class="row">
             <div class="col-12 col-sm-3 text-center text-sm-start">
-                <a href="https://github.com"><i class="fa-brands fa-brands-con fa-github"></i></a>
-                <a href="https://linkedin.com"><i class="fa-brands fa-brands-con fa-linkedin-in"></i></a>
+                <a href="https://github.com/Samguzman30"><i class="fa-brands fa-brands-con fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/samuel-guzman-245457196/"><i class="fa-brands fa-brands-con fa-linkedin-in"></i></a>
             </div>
             <div class="col-12 col-sm-3 text-center text-sm-start pt-2 p-sm-0">Sponsor <a href="https://depcsuite.com"> DePc Suite</a></div>
             <div class="col-12 col-sm-3 text-sm-start  pt-2 p-sm-0"><a href="mailto:19samuelguzman@gmail.com"> 19samuelguzman@gmail.com</a></div>

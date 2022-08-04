@@ -37,12 +37,10 @@ $pg = "proyectos";
                     <p class="p-3 pb-5 d-block">Alta, baja y modificación de un registro de clientes. Realizado en HTML, CSS,
                         PHP, Bootstrap y Json.</p>
                         <div class="row my-5">
-                            <div class="col-6 ps-4">
-                                <a href="" target="_blank" class="btn btnrojo">Ver online</a>
+                            <div class="col-12 ps-4">
+                                <a href="https://github.com/Samguzman30/ambclientes" target="_blank" class="btn btnrojo">Ver códigos</a>
                             </div>
-                            <div class="col-6 text-center">
-                                <a href="" target="_blank" class="btn btnfuente">Codigo fuente</a>
-                            </div>
+                            
                         </div>
                 </div>
             </div>
@@ -52,12 +50,10 @@ $pg = "proyectos";
                     <h2 class="p-3 d-block"> SISTEMA DE GESTION DE VENTAS </h2>
                     <p class="p-3 pb-5 d-block">Sistema de gestión de clientes, productos y ventas. Realizado en HTML, CSS, PHP, MVC, Bootstrap, Js, Ajax, jQuery y MySQL de base de datos.</p>
                         <div class="row my-5">
-                            <div class="col-6 ps-4">
-                                <a href="" target="_blank" class="btn btnrojo">Ver online</a>
+                            <div class="col-12 ps-4">
+                                <a href="https://github.com/Samguzman30/php/tree/master/sistema_ventas" target="_blank" class="btn btnrojo">Ver códigos</a>
                             </div>
-                            <div class="col-6 text-center">
-                                <a href="" target="_blank" class="btn btnfuente">Codigo fuente</a>
-                            </div>
+                            
                         </div>
                 </div>
             </div>

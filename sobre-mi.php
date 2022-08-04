@@ -22,7 +22,7 @@ $pg = "sobre-mi";
     <div class="row">
         <div class="col-6 col-sm-5 mt-4">
     <h1>Sobre mi</h1>
-    <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos. Soy estudiante de cursos de programación Full Stack y de Base de datos.</p>
+    <p class="pb-sm-5">Apasionado por la tecnología y gestión de proyectos, queriendo ampliar mis conocimientos y poder crecer profesionalmente en esta rama del IT. Soy desarrollador web Full Stack y de Base de datos.</p>
         <a href="contacto.php" class="btn btnrojo">Enviar mensaje</a>
         </div>
         <div class="col-6 col-m-12">
@@ -99,118 +99,38 @@ $pg = "sobre-mi";
         </div>
         <div class="row shadow bg-white rounded">
         <div class="row">
-            <div class="col-2 ms-5 mt-5">
-                <img class="logo-depc img-fluid" src="images/logo-depcsuite.svg" alt="">
+            <div class="col-2 ms-5 mt-7">
+                <img class="logo-work img-fluid" src="images/freelancer.png" alt="">
                 </div>
                 <div class="col-8 pt-3 mb-4">
-                    <h3>Director / Founder</h3>
-                    <h4>DEPCSUITE SA</h4>
-                    <h5>2016 - Presente</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
-                    </div>
-                    <div class="row">
-            <div class="col-2 ms-5 mt-5">
-                <img class="logo-todocash img-fluid" src="images/todocash-vertical.svg" alt="">
-                </div>
-                <div class="col-8 pt-3 mb-4">
-                    <h3>Gerente de sistemas - Co-Founder</h3>
-                    <h4>TodoCash</h4>
+                    <h3>Desarrollador de páginas web autónomo</h3>
+                    <h4>Freelance</h4>
                     <h5>2021 - Presente</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    <p>Proyecto de desarrollo de sistemas web para distintos clientes. Tecnologías: PHP, CSS, HTML, jQuery, Javascript, MySQL, WSDL.</p>
                     </div>
                     <div class="row">
-            <div class="col-2 ms-5 mt-5">
-                <img class="logo-uba img-fluid" src="images/uba.jpg" alt="">
+            <div class="col-2 ms-5 mt-7">
+                <img class="logo-work img-fluid" src="images/freelancer.png" alt="">
                 </div>
                 <div class="col-8 pt-3 mb-4">
-                    <h3>Desarrollador Senior Full Stack</h3>
-                    <h4>Universidad de Buenos Aires</h4>
-                    <h5>ago 2015 - ene 2020</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
-                    </div>
-            <div class="row">
-            <div class="col-2 ms-5 mt-4">
-                <img class="logo-enacom img-fluid" src="images/enacom.jpg" alt="">
-                </div>
-                <div class="col-8 pt-3 mb-4">
-                    <h3>Desarrollador Senior Full Stack</h3>
-                    <h4>ENACOM</h4>
-                    <h5>jul 2012 - jun 2018</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    <h3>Desarrollador SQL</h3>
+                    <h4>Drogueria VIP</h4>
+                    <h5>2018 - 2020</h5>
+                    <p>Actualización de base de datos de la empresa a través del sistema HeidiSQL, control de stock en base de datos, ABM de usuarios.</p>
                     </div>
                     <div class="row">
-            <div class="col-2 ms-5 mt-3">
-                <img class="logo-enacom img-fluid" src="images/freelancer.png" alt="">
+            <div class="col-2 ms-5 mt-7">
+                <img class="logo-work img-fluid" src="images/freelancer.png" alt="">
                 </div>
                 <div class="col-8 pt-3 mb-4">
-                    <h3>Consultor Desarrollador Freelance</h3>
-                    <h4>Certificado Digital SA</h4>
-                    <h5>ago 2014 - dic 2016</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
-                    </div>
-                    <div class="row">
-            <div class="col-2 ms-5 mt-4">
-                <img class="logo-enacom img-fluid  small" src="images/golshy.jpg" alt="">
-                </div>
-                <div class="col-8 pt-3 mb-4">
-                    <h3>Desarrollador Back-end y Front-end</h3>
-                    <h4>Agencia Golshy</h4>
-                    <h5>jul 2011 - dic 2016</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
-                    </div>
-                    <div class="row">
-            <div class="col-2 ms-5 mt-5">
-                <img class="logo-globons img-fluid" src="images/globons.png" alt="">
-                </div>
-                <div class="col-8 pt-3 mb-4">
-                    <h3>Desarrollador Back-end y Front-end</h3>
-                    <h4>Globons SRL</h4>
-                    <h5>abr 2010 - ene 2011</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet voluptatem ipsum iure repellat sunt dicta, a provident, impedit quaerat nisi est sed cum fugiat accusamus exercitationem dolor tenetur odio magnam.</p>
+                    <h3>Mesero</h3>
+                    <h4>The Little Bar</h4>
+                    <h5>Mayo 2017 - Diciembre 2017</h5>
+                    <p>Atencion al cliente, recepcion de mercaderia, manejo de caja.</p>
                     </div>
         </div>
         </div>
 
-    </section>
-    <section id="academico" class="container">
-        <div class="row">
-            <div class="col-12 mt-5 mb-5">
-                <h2><i class="fa-solid fa-graduation-cap"></i>Formación académica</h2>
-            </div>
-        </div>
-        <div class="row shadow bg-white rounded">
-            <div class="row">
-                <div class="col-2 mt-4 ms-5">
-                    <img src="images/ean.jpg" class="academico-img" alt="">
-                </div>
-                <div class="col-4 academico-text mt-4 mb-4">
-                    <h3>Licenciado en tecnologías</h3>
-                    <h4>Escuela Argentina de negocios</h4>
-                    <h5>2015-2020</h5>
-                    <h6>http://www.ean.edu.ar/</h6>
-                </div>
-                <div class="col-2 mt-4 mb-4">
-                    <img src="images/unlam.png" class="academico-img" alt="">
-                </div>
-                <div class="col-4 academico-text mt-4 mb-4">
-                <h3>Ingeniería en Informática</h3>
-                    <h4>Universidad Nacional de La Matanza</h4>
-                    <h5>2006-2010</h5>
-                    <h6>http://unlam.edu.ar</h6>
-                </div>
-            </div>
-            <div class="row">
-            <div class="col-2 mt-4 ms-5">
-                    <img src="images/freelancer.png" class="academico-parroquial" alt="">
-                </div>
-                <div class="col-4 academico-text mt-4 mb-4">
-                    <h3>Técnico en Informática</h3>
-                    <h4>EColegio Parroquial San Juan XXIII</h4>
-                    <h5>2003-2005</h5>
-                    <h6>http://colparroquialjuan23.edu.ar</h6>
-                </div>
-            </div>
-        </div>
     </section>
     <section id="cursos" class="container">
     <div class="row">
@@ -221,61 +141,22 @@ $pg = "sobre-mi";
         <div class="row shadow bg-white rounded mb-5">
             <div class="row">
                 <div class="col-2 mt-4 ms-5">
-                    <img src="images/utn.jpg" class="cursos-img" alt="">
+                    <img src="images/descarga.png" class="cursos-img" alt="">
                 </div>
                 <div class="col-4 cursos-text mt-4 mb-2">
-                    <h3>Programa Ejecutivo en Project Management</h3>
-                    <h4>Universidad Tecnológica Nacional</h4>
-                    <p>Expedición: may 2018</p>
+                    <h3>Programación web Front-End</h3>
+                    <h4>Uneweb</h4>
+                    <p>Expedición: 2015-2016</p>
                     
                 </div>
                 <div class="col-2 mt-4 mb-2">
-                    <img src="images/ean.jpg" class="cursos-img" alt="">
+                    <img src="images/logo-depcsuite.svg" class="depc-img" alt="">
                 </div>
                 <div class="col-4 cursos-text mt-4 mb-2">
-                <h3>Diplomatura en Marketing</h3>
-                    <h4>Escuela Argentina de Negocios</h4>
-                    <p>Expedición: dic 2017</p>
+                <h3>Desarrollo web Full Stack</h3>
+                    <h4>DePC Suite</h4>
+                    <p>Expedición: 2022</p>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-2 mt-4 ms-5">
-                    <img src="images/fundacion-impulsar.png" class="cursos-img" alt="">
-                </div>
-                <div class="col-4 cursos-text mt-4 mb-4">
-                    <h3>Capacitación en Planes de Negocio</h3>
-                    <h4>Fundación Impulsar</h4>
-                    <p>Expedición: may 2018</p>
-                    
-                </div>
-                <div class="col-2 mt-4 mb-4">
-                    <img src="images/unlam.png" class="cursos-img" alt="">
-                </div>
-                <div class="col-4 cursos-text mt-4 mb-4">
-                <h3>Programación Web ASP.NET</h3>
-                    <h4>Universidad de La Matanza</h4>
-                    <p>Expedición: dic 2019</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-2 mt-4 ms-5">
-                    <img src="images/microsoft.jpg" class="cursos-img" alt="">
-                </div>
-                <div class="col-4 cursos-text mt-4 mb-4">
-                    <h3>Programación C# .NET</h3>
-                    <h4>Microsoft</h4>
-                    <p>Expedición: dic 2006</p>
-                    
-                </div>
-                <div class="col-2 mt-4 mb-4">
-                    <img src="images/freelancer.png" class="cursos-img" alt="">
-                </div>
-                <div class="col-4 cursos-text mt-4 mb-4">
-                <h3>English Intermediate B2</h3>
-                    <h4>Instituto John Milton de Cultura Inglesa</h4>
-                    <p>Expedición: dic 2006</p>
-                </div>
-            </div>
             </div>
     </section>
     <section id="idiomas">
